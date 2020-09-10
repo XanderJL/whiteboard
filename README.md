@@ -2,7 +2,7 @@
 
 ### The plan? Simple. We're gonna build a whiteboard app using a bunch of React crap because why not?
 
-**uses:**
+### Uses:
 
 - [Next JS](https://nextjs.org/docs/getting-started)
 - [react-beautiful-dnd](https://www.npmjs.com/package/react-beautiful-dnd)
