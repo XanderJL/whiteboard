@@ -1,6 +1,6 @@
-## Digital whiteboard app for Aluminum Associates
+# Digital whiteboard app for Aluminum Associates
 
-### The plan? Simple. We're gonna build a whiteboard app using a bunch of React crap because why not?
+The plan? Simple. We're gonna build a whiteboard app using a bunch of React crap because why not?
 
 ### Uses:
 
