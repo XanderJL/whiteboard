@@ -13,4 +13,4 @@ The plan? Simple. We're gonna build a whiteboard app using a bunch of React crap
 
 - Use Next JS as an SSG for a single page app
 - Google Sheets for an approachable "database" for staff
-- react-beautiful-dnd to build a rearrangable list for products
+- react-beautiful-dnd to build a rearrangable list of products
