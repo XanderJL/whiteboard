@@ -6,7 +6,7 @@ The plan? Simple. We're gonna build a whiteboard app using a bunch of React crap
 
 - [Next JS](https://nextjs.org/docs/getting-started)
 - [react-beautiful-dnd](https://www.npmjs.com/package/react-beautiful-dnd)
-- [google-sheets](https://www.npmjs.com/package/google-spreadsheet)
+- [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet)
 - [@chakra-ui/core](https://chakra-ui.com/getting-started)
 
 ### Plan of attack:
