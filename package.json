@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "postbuild": "next-on-netlify",
-    "start": "next start"
+    "start": "next start",
+    "nd": "netlify dev"
   },
   "dependencies": {
     "@chakra-ui/core": "^0.8.0",
