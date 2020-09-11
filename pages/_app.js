@@ -1,4 +1,4 @@
-import { CSSReset, theme, ThemeProvider } from "@chakra-ui/core"
+import { CSSReset, ThemeProvider } from "@chakra-ui/core"
 import { DragDropContext } from "react-beautiful-dnd"
 
 function MyApp({ Component, pageProps }) {
